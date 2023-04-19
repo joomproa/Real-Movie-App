@@ -1,17 +1,23 @@
 # Template
 - Get Template - Done
-- Port Template
+- Port Template -Done
 
 # Create Components
 1. Re-usables
     - Header - Done
+        - Change the logo
+        - Work on the menu
     - Footer - Done
+        - Change the logo
+        - Work on the menu
+        - Change the copyright information
+        - Change the social information
     - Movie Player
 
 2. Home Page - Done
     - Design the UI
-    - Get movies from Api
-    - Bind the API to the UI
+    - Get movies from Api - Done
+    - Bind the API to the UI - Done
     - Add Search Function
 
 3. Movie Page - Done

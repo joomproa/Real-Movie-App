@@ -1,3 +1,20 @@
 .custom-bg {
     background-image: url("../../../assets/img/bg/banner_bg01.jpg");
 }
+
+.custom-movie-poster {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.custom-mb{
+    margin-bottom: 5px;
+}
+
+.custom-quality {
+    position: absolute;
+    top: 8px;
+    left: 21px;
+    background: black;
+}

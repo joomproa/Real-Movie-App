@@ -1,0 +1,41 @@
+# Template
+- Get Template - Done
+- Port Template
+
+# Create Components
+1. Re-usables
+    - Header - Done
+    - Footer - Done
+    - Movie Player
+
+2. Home Page - Done
+    - Design the UI
+    - Get movies from Api
+    - Bind the API to the UI
+    - Add Search Function
+
+3. Movie Page - Done
+    - Design the UI
+    - Get movies from Api
+    - Bind the API to the UI
+    - Add Page loader
+
+4. Movie Viewing Page
+    - Display a single movie player
+    - Add comment box
+
+5. Add Movie Page
+    - Create a movie submission form
+    - Bind the form to API
+
+6. Sign Page
+    - Create Sign Form
+    - Bind the form to API
+
+7. Sign Up Page
+    - Create Sign Up Form
+    - Bind the form to API
+
+# Publish Public Domain
+- Push to Git
+- Host on personal hosting or Vercel

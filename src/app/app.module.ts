@@ -8,6 +8,7 @@ import { MovieComponent } from './pages/movie/movie.component';
 import { HeaderComponent } from './resuables/header/header.component';
 import { FooterComponent } from './resuables/footer/footer.component';
 import { HttpClientModule } from '@angular/common/http';
+import { TestsComponent } from './pages/tests/tests.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { HttpClientModule } from '@angular/common/http';
     HomeComponent,
     MovieComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    TestsComponent
   ],
   imports: [
     BrowserModule,
